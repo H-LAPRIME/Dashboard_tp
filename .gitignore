@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+
+# System
+.DS_Store
+
+# Data and databases (large files) - keep out of repo; use releases or Git LFS if needed
+data/
+*.db
+olist_logistics.db
+
+# Python packaging
+dist/
+build/
+*.egg-info/
